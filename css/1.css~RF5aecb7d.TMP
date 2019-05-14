@@ -1,0 +1,33 @@
+*{
+	margin:0;
+	padding:0;
+	background-color: black;
+}
+a{
+	text-decoration: none;
+	color: #7b7b7b;
+	font-size: 5px;
+	background-color: #7b7b7b;
+}
+.warper{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT.jpg) no-repeat center;
+	background-size: contain;
+}
+.w1{
+	position: absolute;
+	left: 20%;
+	top: 32%;
+	width: 60px;
+	height: 60px;
+	opacity: 0;
+}
+.a2{
+	position: absolute;
+	left: 20%;
+	top: 20%;
+	width: 60px;
+	height: 60px;
+}

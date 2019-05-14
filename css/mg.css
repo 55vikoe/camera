@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+	background-color: black;
+}
+.i1{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT1.jpg) no-repeat center;
+	background-size: contain;
+}
+.i2{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT2.jpg) no-repeat center;
+	background-size: contain;
+}
+.i3{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT3.jpg) no-repeat center;
+	background-size: contain;
+}
+.i4{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT4.jpg) no-repeat center;
+	background-size: contain;
+}
+.i5{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT5.jpg) no-repeat center;
+	background-size: contain;
+}
+.i6{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT6.jpg) no-repeat center;
+	background-size: contain;
+}
+.i7{
+	position: fixed;
+	width: 100%;
+	height: 800px;
+	background: url(../camera/SHEXT7.jpg) no-repeat center;
+	background-size: contain;
+}
